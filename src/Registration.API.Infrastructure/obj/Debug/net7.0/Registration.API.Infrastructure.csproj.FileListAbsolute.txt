@@ -1,0 +1,15 @@
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.csproj.AssemblyReference.cache
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.AssemblyInfoInputs.cache
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.AssemblyInfo.cs
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\bin\Debug\net7.0\Registration.API.Infrastructure.deps.json
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\bin\Debug\net7.0\Registration.API.Infrastructure.dll
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\bin\Debug\net7.0\Registration.API.Infrastructure.pdb
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\bin\Debug\net7.0\Registration.API.Application.dll
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\bin\Debug\net7.0\Registration.API.Application.pdb
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.csproj.CopyComplete
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.dll
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\refint\Registration.API.Infrastructure.dll
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\Registration.API.Infrastructure.pdb
+C:\CodeRepo\Registration.API\src\Registration.API.Infrastructure\obj\Debug\net7.0\ref\Registration.API.Infrastructure.dll
